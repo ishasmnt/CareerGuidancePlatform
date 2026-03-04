@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import TestPage from './Pages/TestPage';
 import HomePage from './Pages/HomePage';
-import TestIns from './Pages/TestIns';
+import TestIns from './Pages/TestIns'; 
 import Feedback from './Pages/Feedback';
 import TestReport from './Pages/TestReport';
 import Form from './Pages/Auth/Form';
